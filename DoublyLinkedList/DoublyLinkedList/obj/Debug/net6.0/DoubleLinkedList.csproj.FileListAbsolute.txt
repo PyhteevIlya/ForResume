@@ -1,0 +1,15 @@
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoubleLinkedList.exe
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoubleLinkedList.deps.json
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoubleLinkedList.runtimeconfig.json
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoubleLinkedList.dll
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoubleLinkedList.pdb
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.AssemblyReference.cache
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfoInputs.cache
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfo.cs
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.dll
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\refint\DoubleLinkedList.dll
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.pdb
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoubleLinkedList.genruntimeconfig.cache
+J:\учеба\ForMe\DoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\ref\DoubleLinkedList.dll
